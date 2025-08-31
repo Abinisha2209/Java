@@ -28,9 +28,37 @@
             "id": "9718adba185db5f1",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Arrays/Two-pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two-pointers"
+            }
+          },
+          {
+            "id": "42f33cb94c898b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA in Java/Searching Alogorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Searching Alogorithms"
+            }
+          },
+          {
+            "id": "55befd6cf912a813",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -38,25 +66,42 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled 2"
+              "title": "Untitled"
             }
           },
           {
-            "id": "55befd6cf912a813",
+            "id": "fd848e211830772c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
+                "file": "DSA/Arrays/Two-pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Two-pointers"
+            }
+          },
+          {
+            "id": "aac64e069695b34a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 5.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 5"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Finding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,15 +245,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b221e131f7c0b9f4",
+  "active": "aac64e069695b34a",
   "lastOpenFiles": [
-    "Trees.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Java.md",
-    "Untitled 1.canvas",
+    "Untitled 5.canvas",
+    "DSA/Arrays/Two-pointers.md",
+    "DSA in Java/Searching Alogorithms.md",
+    "Strings/Two-pointers.md",
     "2025-06-30.md",
-    "Welcome.md",
-    "Untitled.canvas"
+    "2025-07-18.md",
+    "DSA in Java/Untitled/Untitled.md",
+    "DSA in Java/Untitled",
+    "Untitled 1",
+    "DSA in Java",
+    "DSA/Arrays/Sliding Window.md",
+    "DSA/Arrays/Problems.md",
+    "Linux/Linux System.md",
+    "Untitled 2.md",
+    "Linux",
+    "Strings/Basic - Intro.md",
+    "DSA/Untitled.md",
+    "Untitled",
+    "Untitled 2.canvas",
+    "Untitled 1.md",
+    "Strings",
+    "Untitled 4.canvas",
+    "Untitled.md",
+    "DSA/Arrays",
+    "DSA/Arrays.md",
+    "Untitled.canvas",
+    "DSA",
+    "Trees.md",
+    "Java.md",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Welcome.md"
   ]
 }
